@@ -1,0 +1,149 @@
+/*Começo do Rodapé*/
+
+.redesSociais{
+    font-size: 80px;
+}
+.redesSociais a{
+    color:black;
+}
+.redesSociais a :hover{
+    color: white;
+}
+.faleConosco p{
+    font-size: 18px;
+}
+.faleConosco a{
+    font-size: 18px;
+}
+
+/*Fim do rodapé*/
+
+/*Começo Livros em destaque*/
+
+.row{
+    margin-left: 0;
+    margin-right: 0;
+}
+
+#bannerDiretores{
+    max-width: 1000px;
+}
+
+#bannerDiretores li{
+    background-color: black;
+}
+/*Fim Livros em destaque*/
+
+/*Começo da Administração*/
+
+.adm{
+    background-color: red;
+}
+
+.adm main{
+    background-color: white;
+    min-height: 500px;
+}
+
+.opcoes span{
+    font-size: 45px;
+    width: 100%;
+}
+.opcoes p{
+    font-size: 18px;
+}
+.opcoes a{
+    text-decoration: none;
+}
+.opcoes a :hover{
+    color: red;
+}
+
+/*Começo do menu da Administração*/
+.menuAdm{
+    background-color: black;
+    text-align: right;
+    padding: 0px;
+}
+
+.menuAdm a{
+    text-decoration: none;
+    font-size: 20px;
+    color:white;
+    
+}
+
+.menuAdm a:hover{
+    color: orange;
+}
+
+.menuAdm li{
+    list-style: none;
+    padding: 4px;
+    border-bottom: 2px solid gray;
+}
+.menuAdm li:hover{
+    border-bottom: 2px solid red;
+    background-color: #333;
+}
+
+.menuAdm span{
+    font-size: 24px;
+    padding-left:15px ;
+}
+.menuAdm li a{
+    display:block;
+}
+
+/*Começo itens Administração*/
+
+.intensCadastrados{
+    border: 2px solid lightgray;
+    border-radius: 10px;
+    padding: 15px;
+}
+
+.intensCadastrados:hover{
+    background: #edeede; ;
+}
+
+/*Fim itens Administração**/
+
+/*Fim do menu lateral da Administração*/
+
+/*Fim da Administração*/
+
+.banner{
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+    
+}
+
+#corpo{
+    width: 960px;
+    height: auto;
+    margin: 0 auto;
+    background-color: white;
+    margin-top: 10px;
+    margin-top: 10px;
+}
+
+.categorias{
+    width: 219px;
+    height: auto;
+    float: left;
+    margin-right: 8px;
+    border: solid 1px #ccc;
+    font-weight: bold;
+    margin: 10px;
+}
+
+.categorias h2{
+    width: 208px;
+    height: 19px;
+    padding-left: 10px;
+    margin-bottom: 10px;
+    color: ;
+}
